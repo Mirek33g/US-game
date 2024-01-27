@@ -1,0 +1,1 @@
+This is the game to guess as many states in U.S. as you know and will also show them on the screen
